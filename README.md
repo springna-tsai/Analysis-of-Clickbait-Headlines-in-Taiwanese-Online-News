@@ -70,7 +70,7 @@ In the digital age, online media is the fastest and most widespread source of in
 ---
 
 ## 📋 Technologies Used
-- **Python:** (pandas, numpy)
+- **Python:** (`pandas`, `numpy`)
 - **Streamlit** for interactive web apps
 - **Plotly** for data visualization
 - **Regex** for clickbait detection
